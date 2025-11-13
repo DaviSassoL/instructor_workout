@@ -1,5 +1,5 @@
 [project]
-name = "etl-project"
+name = "instructor_workout"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
